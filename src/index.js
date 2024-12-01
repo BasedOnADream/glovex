@@ -1,17 +1,39 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import react, { useState } from "react"
+import dom from "react-dom/client"
+import {  createBrowserRouter, RouterProvider } from "react-router";
+import db from "./tempDB.json"
+import Footer from "./footer.jsx"
+import Nav from "./nav.jsx"
+import Main from "./main.jsx"
+import Shops from "./subpages/shops.jsx"
+import Menu from "./subpages/menu.jsx"
+import { CartProvider } from './CartContext';
+import "./index.css"
+import Account from "./subpages/account.jsx";
+import NotFound from "./notFound.jsx";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+const router = createBrowserRouter([
+    {
+        path: "/",
+        element: <CartProvider><Nav/><Main/><Footer/></CartProvider>
+    },
+    {
+        path: "/sklepy/:type",
+        element: <CartProvider><Nav/><Shops/><Footer/></CartProvider>
+    },
+    {
+        path: "/sklepy/:type/:id",
+        element: <CartProvider><Nav/><Menu/><Footer/></CartProvider>
+    },
+    {
+        path: "/konto",
+        element: <CartProvider><Nav/><Account/><Footer/></CartProvider>
+    },
+    {
+    path: "*",
+    element: <CartProvider><Nav/><NotFound/><Footer/></CartProvider>
+    }   
+]);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+const root = dom.createRoot(document.getElementById("root"));
+root.render(<react.StrictMode>< RouterProvider router={router}/></react.StrictMode>);

@@ -1,0 +1,350 @@
+{
+    "sklepy":
+    {
+        "spozywcze":[
+            {
+                "nazwa":"Biedronka",
+                "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAyo5WjMNdp0ocjYUZCAPxV2MTFXb0QDWB_A&s",
+                "godziny_otwarcia":"8:00-21:00",
+                "produkty":[
+                    {
+                        "nazwa":"Mleko Mleczna Dolina 2,0%",
+                        "cena":"5,00",
+                        "waga":"1000ml",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXd1hkNGJsLc1GgV2N0tiD9T0svmotTZjZw&s"
+                    },
+                    {
+                        "nazwa":"Chleb Biały 500g",
+                        "cena":"5.00",
+                        "waga":"500g",
+                        "zdjecie":"https://e-delikatesydwojka.pl//app/uploads/2019/11/chleb-zwyk-bednarczyk-1.jpg"
+                    },
+                    {
+                        "nazwa":"Jajka 10szt",
+                        "cena":"10.00",
+                        "waga":"10szt",
+                        "zdjecie":"https://pomidory.pl/wp-content/uploads/2024/02/jajka-10-szt-l-wolny-wybieg.jpg"
+                    }
+                ]
+            },
+            {
+                "nazwa":"Lidl",
+                "logo":"https://e7.pngegg.com/pngimages/727/982/png-clipart-lidl-logo-ireland-logo-lidl-symbols-lidl-logo-miscellaneous-cdr-thumbnail.png",
+                "godziny_otwarcia":"8:00-21:00",
+                "produkty":[
+                    {
+                        "nazwa":"Mleko UHT 2,0%",
+                        "cena":"5.00",
+                        "waga":"1000ml",
+                        "zdjecie":"https://www.delikatesyemis.pl/content/images/thumbs/0016648_mu-mleko-uht-20-1-l_550.jpeg"
+                    },
+                    {
+                        "nazwa":"Chleb Biały",
+                        "cena":"2.00",
+                        "waga":"500g",
+                        "zdjecie":"https://e-delikatesydwojka.pl//app/uploads/2019/11/chleb-zwyk-bednarczyk-1.jpg"
+                    },
+                    {
+                        "nazwa":"Woda Saguaro 2L niegazowana",
+                        "cena":"1.50",
+                        "waga":"2000ml",
+                        "zdjecie":"https://www.lidl.pl/static/assets/saguaro003-397509.jpg"
+                    }
+                ]
+            },
+            {
+                "nazwa":"Żabka",
+                "logo":"https://logotypy.net/wp-content/uploads/2023/09/logo-zabka.jpg",
+                "godziny_otwarcia":"6:00-23:00",
+                "produkty":[
+                    {
+                        "nazwa":"Camel Blue",
+                        "cena":"19.99",
+                        "ilosc":"20 papierosów",
+                        "zdjecie":"https://www.skleptytoniowy.pl/5821-thickbox_default/camel-blue.jpg"
+                    },
+                    {
+                        "nazwa":"Monster Bad Apple",
+                        "cena":"5.99",
+                        "ilosc":"500ml",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRml9majdrPRNxmfl5Ii5VwETVAYNAiQ49kRA&s"
+                    },
+                    {
+                        "nazwa":"Jajka",
+                        "cena":"9.99",
+                        "ilosc":"10szt",
+                        "zdjecie":"https://pomidory.pl/wp-content/uploads/2024/02/jajka-10-szt-l-wolny-wybieg.jpg"
+                    }
+                ]
+            }     
+        ],
+        "apteki":
+        [
+            {
+                "nazwa":"Apteka św. Łukasza",
+                "logo":"https://banner2.cleanpng.com/20180320/zoq/av0oqgtrw.webp",
+                "godziny_otwarcia":"Całodobowo",
+                "produkty":[
+                    {
+                        "nazwa":"Benadryl Allergy Relief 12,5mg",
+                        "cena":"39.99",
+                        "ilosc":"30 tabletek",
+                        "Działanie":"Antyhistaminowe",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3M0zmcvaL_vnadwagD4Cuxc3B45nhGwDvFg&s"
+                    },
+                    {
+                        "nazwa":"Clonazepamum TZF 2mg",
+                        "cena":"39.69",
+                        "ilosc":"30 tabletek",
+                        "Działanie":"Benzodiazepina",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qlyLrnPNYh7AxXxPIdwWtwXxRER9YbFsbg&s"
+                    },
+                    {
+                        "nazwa":"Ibuprom Max 400mg",
+                        "cena":"27.29",
+                        "ilosc":"40 tabletek",
+                        "Działanie":"Przeciw bólowe",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8ODkfNfa4rDJHqWvFXmU8_PHbsRu60bfqA&s"
+                    }
+                ]
+            },
+            {
+                "nazwa":"Apteka Nowa Farmacja",
+                "logo":"https://www.nowafarmacja.pl/img/layout/NowaFarmacja2018/logo_nowe.svg?1572517905",
+                "godziny_otwarcia":"8:00-19:00",
+                "produkty":[
+                    {
+                        "nazwa":"Benadryl Allergy Relief 12,5mg",
+                        "cena":"39.99",
+                        "ilosc":"30 tabletek",
+                        "Działanie":"Antyhistaminowe",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3M0zmcvaL_vnadwagD4Cuxc3B45nhGwDvFg&s"
+                    },
+                    {
+                        "nazwa":"Clonazepamum TZF 2mg",
+                        "cena":"39.69",
+                        "ilosc":"30 tabletek",
+                        "Działanie":"Benzodiazepina",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qlyLrnPNYh7AxXxPIdwWtwXxRER9YbFsbg&s"
+                    },
+                    {
+                        "nazwa":"Ibuprom Max 400mg",
+                        "cena":"27.29",
+                        "ilosc":"40 tabletek",
+                        "Działanie":"Przeciw bólowe",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8ODkfNfa4rDJHqWvFXmU8_PHbsRu60bfqA&s"
+                    }
+                ]
+            },
+            {
+                "nazwa":"Apteka Szymańscy",
+                "logo":"https://banner2.cleanpng.com/20180320/zoq/av0oqgtrw.webp",
+                "godziny_otwarcia":"8:00-22:00",
+                "produkty":[
+                    {
+                        "nazwa":"Benadryl Allergy Relief 12,5mg",
+                        "cena":"39.99",
+                        "ilosc":"30 tabletek",
+                        "Działanie":"Antyhistaminowe",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3M0zmcvaL_vnadwagD4Cuxc3B45nhGwDvFg&s"
+                    },
+                    {
+                        "nazwa":"Clonazepamum TZF 2mg",
+                        "cena":"39.69",
+                        "ilosc":"30 tabletek",
+                        "Działanie":"Benzodiazepina",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qlyLrnPNYh7AxXxPIdwWtwXxRER9YbFsbg&s"
+                    },
+                    {
+                        "nazwa":"Ibuprom Max 400mg",
+                        "cena":"27.29",
+                        "ilosc":"40 tabletek",
+                        "Działanie":"Przeciw bólowe",
+                        "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8ODkfNfa4rDJHqWvFXmU8_PHbsRu60bfqA&s"
+                    }
+                ]
+            }
+        ],
+        "restauracje": [
+        {
+            "nazwa": "Pizzeria DaGrasso",
+            "logo": "https://dagrasso.pl/_next/image?url=%2Fimg%2Flogo%403x.webp&w=128&q=100",
+            "godziny_otwarcia": "11:00-22:00",
+            "produkty": [
+                {
+                    "nazwa": "Margherita",
+                    "cena": "32.00",
+                    "rozmiar": "32cm",
+                    "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBUVplWFfomqoGRxIGihMd7Cnj6eEFe0F7A&s"
+                },
+                {
+                    "nazwa": "Pepperoni",
+                    "cena": "39.00",
+                    "rozmiar": "32cm",
+                    "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lOctJ71F57JBQ3BjkVPOCA8HEytD5PSGPg&s"
+                },
+                {
+                    "nazwa": "Calzone",
+                    "cena": "42.00",
+                    "rozmiar": "32cm",
+                    "zdjecie":"https://staticsmaker.iplsc.com/smaker_production_2022_06_29/54a85579d445bfb208965354618fbc71-lg.png"
+                }
+            ]
+        },
+        {
+            "nazwa": "KFC",
+            "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png",
+            "godziny_otwarcia": "10:00-23:00",
+            "produkty": [
+                {
+                    "nazwa": "Longer Box",
+                    "cena": "29.99",
+                    "ilosc": "1 porcja",
+                    "zdjecie":"https://images.bolt.eu/store/2024/2024-02-28/5158a4ff-394d-43ea-ad2d-48226cd451f6.jpeg"
+                },
+                {
+                    "nazwa": "Hot Wings",
+                    "cena": "24.99",
+                    "ilosc": "6 szt",
+                    "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-jyT-PudR6xTsMS6g8NQ8re_hnGnZyuSuw&s"
+                },
+                {
+                    "nazwa": "Kubełek Classic",
+                    "cena": "39.99",
+                    "ilosc": "12 szt",
+                    "zdjecie":"https://static.takeaway.com/images/restaurants/pl/OQ0010PN/products/762133855.jpg?timestamp=1732517714"
+                }
+            ]
+        },
+        {
+            "nazwa": "McDonald's",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png",
+            "godziny_otwarcia": "7:00-23:00",
+            "produkty": [
+                {
+                    "nazwa": "Big Mac",
+                    "cena": "18.90",
+                    "ilosc": "1 szt",
+                    "zdjecie":"https://cdn.mcdonalds.pl/uploads/20240702143550/354267-big-mac-na-www-1090x664px-big-mac-2.png"
+                },
+                {
+                    "nazwa": "McRoyal",
+                    "cena": "19.90",
+                    "ilosc": "1 szt",
+                    "zdjecie":"https://static.wikia.nocookie.net/mcdonalds-pedia/images/5/5f/Mcroyal.png/revision/latest?cb=20181124071626&path-prefix=pl"
+                },
+                {
+                    "nazwa": "McNuggets",
+                    "cena": "22.90",
+                    "ilosc": "9 szt",
+                    "zdjecie":"https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Chicken-McNuggets-6-pieces-2:1-3-product-tile-desktop?wid=829&hei=515&dpr=off"
+                }
+            ]
+        }
+    ],
+    "alkohole": [
+        {
+            "nazwa": "Świat Alkoholi",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqWSdzl2PptrMZCZwSN92C_dTIlTO_TVykA&s",
+            "godziny_otwarcia": "10:00-22:00",
+            "produkty": [
+                {
+                    "nazwa": "Żubrówka Biała",
+                    "cena": "29.99",
+                    "pojemność": "0.5L",
+                    "typ": "wódka",
+                    "zdjecie":"https://www.wodkanawesela.pl/wp-content/uploads/2020/09/zubrowka-biala-wodka-czysta-500-ml-wodka-czysta-alkohole_0.jpg"
+                },
+                {
+                    "nazwa": "Jack Daniel's",
+                    "cena": "119.99",
+                    "pojemność": "0.7L",
+                    "typ": "whiskey",
+                    "zdjecie":"https://propaganda24h.pl/environment/cache/images/0_0_productGfx_14272/JACK-DANIELS-OLD-NO.7-WHISKEY-1L.png"
+                },
+                {
+                    "nazwa": "Carlsberg",
+                    "cena": "3.99",
+                    "pojemność": "0.5L",
+                    "typ": "piwo",
+                    "zdjecie":"https://duzyben.pl/hpeciai/eb275e084e56c079326fbd47db31a4db/pol_pl_PIWO-CARLSBERG-PILSNER-0-5L-BUT-BZW-294_1_1.jpg"
+                }
+            ]
+        },
+        {
+            "nazwa": "Alkohole 24h",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_d3wMWPZUtb574N6PgAJTDYgjFGkXVQpDA&s",
+            "godziny_otwarcia": "Całodobowo",
+            "produkty": [
+                {
+                    "nazwa": "Soplica Wiśniowa",
+                    "cena": "27.99",
+                    "pojemność": "0.5L",
+                    "typ": "nalewka",
+                    "zdjecie":"https://alkohol-online.pl/2136-large_default/993-soplica-wisniowa-500ml.jpg"
+                },
+                {
+                    "nazwa": "Tyskie",
+                    "cena": "3.49",
+                    "pojemność": "0.5L",
+                    "typ": "piwo",
+                    "zdjecie":"https://duzyben.pl/hpeciai/3e1a739bb0266d9e4ef9737e1d06a4ea/pol_pl_PIWO-TYSKIE-GRONIE-5-2-0-5L-BUT-ZW-54_1_1.jpg"
+                },
+                {
+                    "nazwa": "Jagermaister",
+                    "cena": "32.99",
+                    "pojemność": "0.75L",
+                    "typ": "wino",
+                    "zdjecie":"https://kultowealkohole.pl/uploads/images/3e/J%C3%A4germeister.png"
+                }
+            ]
+        },
+        {
+            "nazwa": "Centrum Win",
+            "logo": "https://brandy.pl/upload/1920x1080resize/company_realization/70/7%20CENTRUM%20WINA_.jpg",
+            "godziny_otwarcia": "09:00-21:00",
+            "produkty": [
+                {
+                    "nazwa": "Chianti Classico",
+                    "cena": "89.99",
+                    "pojemność": "0.75L",
+                    "typ": "wino czerwone",
+                    "zdjecie":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvtCuKCNbcO7h5DCJursk5csq3BDIe07ZiLw&s"
+                },
+                {
+                    "nazwa": "Moët & Chandon",
+                    "cena": "249.99",
+                    "pojemność": "0.75L",
+                    "typ": "szampan",
+                    "zdjecie":"https://propaganda24h.pl/environment/cache/images/0_0_productGfx_14613/Szampan-MOET--CHANDON-BRUT-IMPERIAL-0%2C75L---karton.png"
+                },
+                {
+                    "nazwa": "Martini Bianco",
+                    "cena": "45.99",
+                    "pojemność": "1L",
+                    "typ": "wermut",
+                    "zdjecie":"https://propaganda24h.pl/environment/cache/images/0_0_productGfx_15589/MARTINI-BIANCO-1L---WERMUT.jpg"
+                }
+            ]
+        }
+    ]
+    },
+    "uzytkownicy":
+    [{
+        "nazwa":"Jagermaister",
+        "email":"jagik@gmail.com",
+        "haslo":"glovex123",
+        "miasto":"Warszawa",
+        "adres":"Sigma St 43/2",
+        "telefon":"732654643"
+    },
+    {
+        "nazwa":"mat1g",
+        "email":"mat1g@gmail.com",
+        "haslo":"mangomango",
+        "miasto":"Częstochowa",
+        "adres":"Bohaterów Warszawy 12",
+        "telefon":"534654643"
+    }
+]
+}
